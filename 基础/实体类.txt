@@ -1,0 +1,53 @@
+实体类：嗖嗖移动卡、话唠套餐、网虫套餐、超人套餐、消费记录、使用场景
+MobileCard
+	cardNumber
+	userNumber
+	passWord
+	serPackage
+	consumAmount
+	money
+	realTalkTime
+	realSMSCount
+	realFlow
+	
+	showMeg()
+TalkPackage
+	talkTime
+	smsCount
+	
+	showInfo()
+	call(int minCount,MobileCard card)
+	send(int count,MobileCard card)
+SuperPackage
+	talkTime
+	smsCount
+	flow
+	
+	showInfo()
+	call(int minCount,MobileCard card)
+	send(int count,MobileCard card)
+	netPlay(int flow,MobileCard card)
+NetPackage
+	flow
+	
+	showInfo()
+	netPlay(int flow,MobileCard card)
+ConsumInfo
+	cardNumber
+	type
+	consumData
+Scene
+	type
+	data
+	description
+
+ServicePackage
+	price
+	showInfo()
+接口：
+CallService
+	call(int minCount,MobileCard card)
+SendService
+	send(int count,MobileCard card)
+NetService
+	netPlay(int flow,MobileCard card)

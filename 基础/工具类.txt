@@ -1,0 +1,29 @@
+注册新卡
+话费充值
+使用嗖嗖
+资费说明
+本月账单查询
+套餐余量查询
+打印消费详单
+套餐变更
+办理退网
+验证该卡是否注册
+CardUtil
+	cards
+	consumInfos
+	
+	initScene()
+	isExistCard(String number,String passWord)
+	isExistCard(String number)
+	createNumber()
+	getNewNumbers(int count)
+	addCard(MobileCard card)
+	delCard(String number)
+	showRemainDetail(String number)
+	showAmountDetail(String number)
+	addConsumInfo(String number,ConsumInfo info)
+	useSoso(String number)
+	showDescription()
+	changingPack(String number,String packNum)
+	printConsumInfo(String number)
+	chargeMoney(String number,double money)
