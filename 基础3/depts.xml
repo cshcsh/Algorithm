@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<depts>
+	<dept id="1">
+		<id name="编号">1</id>
+		<dt_name name="部门">开发部</dt_name>
+		<create_time name="创建">2016-06</create_time>
+		<dt_bz name="职责">负责开发软件</dt_bz>
+	</dept>
+	<dept id="2">
+		<id name="编号">2</id>
+		<dt_name name="部门">销售部</dt_name>
+		<create_time name="创建">2016-05</create_time>
+		<dt_bz name="职责">负责产品销售</dt_bz>
+	</dept>
+	<dept id="3">
+		<id name="编号">3</id>
+		<dt_name name="部门">财务部</dt_name>
+		<create_time name="创建">2016-04</create_time>
+		<dt_bz name="职责">管理公司财务</dt_bz>
+	</dept>
+	<dept id="3">
+		<id name="99">99</id>
+		<dt_name name="99">99</dt_name>
+		<create_time name="99">99</create_time>
+		<dt_bz name="99">99</dt_bz>
+	</dept>
+	<dept id="5">
+		<id name="66">66</id>
+		<dt_name name="66">66</dt_name>
+		<create_time name="66">66</create_time>
+		<dt_bz name="">66</dt_bz>
+	</dept>
+	<dept id="6">
+		<id name="编号">55</id>
+		<dt_name name="部门">55</dt_name>
+		<create_time name="创建">55</create_time>
+		<dt_bz name="职责">55</dt_bz>
+	</dept>
+	<dept id="7">
+		<id name="编号">00</id>
+		<dt_name name="部门">00</dt_name>
+		<create_time name="创建">00</create_time>
+		<dt_bz name="职责">00</dt_bz>
+	</dept>
+	<dept id="8">
+		<id name="编号">4</id>
+		<dt_name name="部门">4</dt_name>
+		<create_time name="创建">4</create_time>
+		<dt_bz name="职责">4</dt_bz>
+	</dept>
+	<dept id="9">
+		<id name="编号">33</id>
+		<dt_name name="部门">33</dt_name>
+		<create_time name="创建">33</create_time>
+		<dt_bz name="职责">33</dt_bz>
+	</dept>
+</depts>
