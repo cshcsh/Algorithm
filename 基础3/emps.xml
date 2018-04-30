@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emps>
+	<emp id="1">
+		<id name="编号">1</id>
+		<name name="姓名">csh</name>
+		<sex name="性别">男</sex>
+		<age name="年龄">22</age>
+		<deptid name="部门编号">1</deptid>
+	</emp>
+	<emp id="2">
+		<id>2</id>
+		<name>csh2</name>
+		<sex>男</sex>
+		<age>22</age>
+		<deptid>2</deptid>
+	</emp>
+	<emp id="3">
+		<id>3</id>
+		<name>csh3</name>
+		<sex>女</sex>
+		<age>20</age>
+		<deptid>3</deptid>
+	</emp>
+</emps>
