@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<managers>
+	<manager id="1">
+		<id name="编号">1</id>
+		<account name="账户名">csh</account>
+		<password name="密码">123456</password>
+		<managerLevel name="权限级别">0</managerLevel>
+	</manager>
+	<manager id="2">
+		<id>2</id>
+		<account>root</account>
+		<password>000000</password>
+		<managerLevel>1</managerLevel>
+	</manager>
+	<manager id="3">
+		<id>3</id>
+		<account>zs</account>
+		<password>000000</password>
+		<managerLevel>0</managerLevel>
+	</manager>
+</managers>
